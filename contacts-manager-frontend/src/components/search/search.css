@@ -1,0 +1,8 @@
+.search-list{
+  background-color: white;
+  border-radius: 10px;
+}
+.list-item:hover{
+  font-weight: 500;
+  cursor: pointer;
+}
